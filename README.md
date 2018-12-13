@@ -7,8 +7,8 @@ Steps to run
 
 Steps to start a server
 1. Install http-server (if not already).
-    > To install, run ```npm install -g http-server```
+    * To install, run ```npm install -g http-server```
 
 2. To start the server
-    > Navigate to the target folder (the cloned repo folder)
-    > run ```http-server .```
+    * Navigate to the target folder (the cloned repo folder)
+    * run ```http-server .```
